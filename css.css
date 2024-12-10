@@ -1,0 +1,110 @@
+.header, .footer, .body1 {
+    background-color: #1F2937;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #f9faf8;
+}
+button{
+    background-color: #3882f6;
+    color: #f9faf8;
+    align-self:self-start;
+    border-radius: 5px;
+    border-color: #3882f6;
+    margin: 20px;
+    padding: 10px;
+    font-size: 18px;
+}
+body{
+     margin: 0px; 
+}
+.header,.footer,.body1,.body2,.body3,.body4{
+    display: flex;
+    align-items: center;
+    padding: 10px;
+
+}
+.header{
+    justify-content: space-between;
+}
+.header a{
+    margin: 10px;
+}
+.body1{
+    justify-content: center;
+    padding:24px 64px;
+    column-gap: 30px;
+}
+h2{
+    font-size: 48px;
+    font-weight: 900;
+    margin:0px;
+}
+.body1 div{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    max-width: 500px;
+       
+}
+.body2{
+    flex-direction: column;
+    align-items:space-around ;
+    
+}
+.body2 div{
+    display: flex;
+    justify-content: center;
+    column-gap: 24px;
+    align-items: center;
+}
+.body2 div p {
+    max-width: 200px;
+}
+.body2 img{
+    width: 150px;
+    height: 200px;
+}
+.body3{
+    background-color: #e5e7eb;
+    font-size: 36px;
+    font-style: light italic;
+    color: #1f2937;
+    padding: 56px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.body3 p{
+    align-self: last baseline;
+    font-size: 24px;
+    color: rgb(58, 57, 57);
+    font-style: italic;
+}
+.body3 div{
+    max-width: 800px;
+}
+.body4{
+    justify-content: center;
+}
+.in_body4 {
+    width: 1000px;
+    height: 100px;
+    display:flex;
+    justify-content: space-around;
+    background-color: #3882f6;
+    align-items: center;
+    padding: 10px 30px;
+    color: #e5e7eb;
+    margin: 40px;
+    border-radius: 10px;
+}
+.body4 button{
+    border-color: #e5e7eb;
+    border-style: solid;
+}
+h4{
+    margin: 5px;
+    font-size: 20px;
+}
+.footer{
+    justify-content: center;
+}
