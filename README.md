@@ -1,10 +1,12 @@
-# odin-landing_page
-<h3>The desired page layout is given in the image below </h3>
+<h3>The weebpage is the home page for recipes</h3>
+It is build using HTML and CSS.<br>
+The webpage has various elements and styles included such as:
+<br>-links
+<br>-images
+<br>-buttons
+<br>-flexbox layouts
 
-![alt text](image.png)
+Note: The images are taken from Pixabay ans Pexels
 
-
-<h3>The css styles usend are depicted in the image below</h3>
-
-![alt text](image-1.png)
-
+<h2>The webpage</h2>
+![image](https://github.com/user-attachments/assets/95d691e5-d0d3-43fe-98ee-c16dec74c1bb)
