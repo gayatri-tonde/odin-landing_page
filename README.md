@@ -1,4 +1,4 @@
-<h3>The weebpage is the home page for recipes</h3>
+<h3>The webpage is the home page for recipes</h3>
 It is build using HTML and CSS.<br>
 The webpage has various elements and styles included such as:
 <br>-links
